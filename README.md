@@ -1,8 +1,6 @@
 # Hello, I am Ricealicious
+I am a Sophomore at the University of Texas at Dallas. Other than that is not really much that I can think of to include this "about me."
 
-I mostly just use GitHub to stash away my course assignments and notes; however, I have plans on eventually starting my own personal projects while also contributing to open-source projects whenever I can!
-
-- I absolutely love looking through everyone's dotfiles. They are so pretty.
-- Currently learning Java though if I'm being honest I would rather go back to C++.
-
-Update (11/7/2021): I am thinking of creating my own OS. Once I start, I will likely revise this README.
+# What I am currently working on
+- I am currently learning Rust and am planning to create a repository to store my progress.
+- Overall, I am planning on improving my technical skills.
